@@ -817,7 +817,7 @@ imtiazak_ua_samsung = 'Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T; w
 imtiazak_ua_windows = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
 
 banner="""\033[1;94m   
-   /$$$$$$  /$$   /$$  /$$$$$$  /$$   /$$ /$$$$$$
+  /$$$$$$  /$$   /$$  /$$$$$$  /$$   /$$ /$$$$$$
  /$$__  $$| $$  | $$ /$$__  $$| $$$ | $$|_  $$_/
 | $$  \__/| $$  | $$| $$  \ $$| $$$$| $$  | $$  
 |  $$$$$$ | $$$$$$$$| $$$$$$$$| $$ $$ $$  | $$  
